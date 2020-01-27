@@ -1,0 +1,22 @@
+{
+  "name": "glu-machinelearning",
+  "version": "1.0.0",
+  "description": "An example using ml5.js and p5.js for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnkunstman/GLU-MachineLearning.git"
+  },
+  "author": "Martijn Kunstman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martijnkunstman/GLU-MachineLearning/issues"
+  },
+  "homepage": "https://github.com/martijnkunstman/GLU-MachineLearning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
